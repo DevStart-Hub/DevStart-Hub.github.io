@@ -1,4 +1,4 @@
-# DEVSTART Hub <a href="https://github.com/DevStart-Hub"><img src="RenderHub.png" width="200" align="right" /></a>
+# DEVSTART Hub <a href="https://github.com/DevStart-Hub"><img src="RenderHub.png" width="600" align="right" /></a>
 
 Welcome to the **DEVSTART Hub** 👋  
 
